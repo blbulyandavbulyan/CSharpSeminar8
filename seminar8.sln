@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task54", "task54\task54.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task54WithoutJaggedArray", "Task54WithoutJaggedArray\Task54WithoutJaggedArray.csproj", "{F91A1BAC-E8FA-417E-96DC-D9807F050CEC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task56", "task56\task56.csproj", "{6B789FEE-BC9C-4786-BCF2-17CB7E9F1DED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{F91A1BAC-E8FA-417E-96DC-D9807F050CEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F91A1BAC-E8FA-417E-96DC-D9807F050CEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F91A1BAC-E8FA-417E-96DC-D9807F050CEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B789FEE-BC9C-4786-BCF2-17CB7E9F1DED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B789FEE-BC9C-4786-BCF2-17CB7E9F1DED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B789FEE-BC9C-4786-BCF2-17CB7E9F1DED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B789FEE-BC9C-4786-BCF2-17CB7E9F1DED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
