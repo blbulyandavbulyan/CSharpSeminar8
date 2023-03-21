@@ -31,7 +31,6 @@ int[][] GenerateRandom2DArray(int rows, int columns, int min = 0, int max = 100)
 }
 void SortElementsInArray(int[] array)
 {
-    int countSorted = 0;
     for(int i = 0; i < array.Length; i++)
     {
         for (int j = 0; j < array.Length - i - 1; j++)
@@ -40,7 +39,6 @@ void SortElementsInArray(int[] array)
                 int temp = array[j];
                 array[j] = array[j + 1];
                 array[j + 1] = temp;
-                countSorted++;
             }
         }
     }
